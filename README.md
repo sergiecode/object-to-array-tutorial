@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/sergiecode/object-to-array-tutorial/master/objectToArray.jpeg)
+![Tutorial de objeto a arreglo en Javascript](https://raw.githubusercontent.com/sergiecode/object-to-array-tutorial/master/objectToArray.jpeg)
 
 # Tutorial: Convertir Objetos a Arrays con Object.keys(), Object.values() y Object.entries()
 
